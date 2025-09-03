@@ -1,4 +1,4 @@
-# One Flight Over the Gap: A Survey from Perspective to Omnidirectional Vision.
+# One Flight Over the Gap: A Survey from Perspective to Panoramic Vision.
 
 ## Visual Quality Enhancement
 
@@ -294,126 +294,6 @@
 - [DepthAnywhere (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/e6c2e85db1f1039177c4495ccd399ac4-Paper-Conference.pdf)
 - [PanDA (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf)
 
-## Visual Generation 
-
-### Completion:
-
-- [Cylin-Painting (TIP 2023)](https://ieeexplore.ieee.org/abstract/document/10370742/)
-- [Dream360 (TVCG 2024)](https://arxiv.org/pdf/2401.10564)
-- [PanoDecouple (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Panorama_Generation_From_NFoV_Image_Done_Right_CVPR_2025_paper.pdf)
-- [PanoDiff (arXiv 2023)](https://arxiv.org/pdf/2308.14686)
-- [PanoDiffusion (arXiv 2023)](https://arxiv.org/pdf/2307.03177)
-- [Diverse Plausible 360° Outpainting (Akimoto et al., CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Akimoto_Diverse_Plausible_360-Degree_Image_Outpainting_for_Efficient_3DCG_Background_Creation_CVPR_2022_paper.pdf)
-- [BIPS (ECCV 2022)](https://arxiv.org/pdf/2112.06179)
-- [2S-ODIS (ECCV 2024)](https://arxiv.org/pdf/2409.09969)
-- [ImmerseGAN (3DV 2022)](https://arxiv.org/pdf/2204.07286)
-- [AOG-Net (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/29332)
-
-
-
-### NVS
-
-### NeRF:
-
-- [EgoNeRF (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Spherical_Grid_for_Egocentric_View_Synthesis_CVPR_2023_paper.pdf)  
-- [PanoGRF (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/16049e0c3f47899091ac46f8b3afb178-Paper-Conference.pdf)  
-- [Omni-NeRF (ICME 2022)](https://inria.hal.science/hal-03646688/document)  
-- [OmniLocalRF (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Choi_OmniLocalRF_Omnidirectional_Local_Radiance_Fields_from_Dynamic_Videos_CVPR_2024_paper.pdf)  
-- [360Roam (arXiv 2022)](https://arxiv.org/pdf/2208.02705)  
-- [360FusionNeRF (IROS 2023)](https://arxiv.org/pdf/2209.14265)  
-- [PERF (TPAMI 2024)](https://arxiv.org/pdf/2310.16831)  
-- [PanoHDR-NeRF (arXiv 2022)](https://arxiv.org/pdf/2208.07903)  
-
-
-### 3DGS:
-
-- [360-GS (arXiv 2024)](https://arxiv.org/pdf/2402.00763)
-- [ODGS (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/6882dbdc34bcd094e6f858c06ce30edb-Paper-Conference.pdf)
-- [PanSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf)  
-- [OmniGS (arXiv 2024)](https://arxiv.org/pdf/2404.03202)   
-- [Splatter-360 (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Splatter-360_Generalizable_360_Gaussian_Splatting_for_Wide-baseline_Panoramic_Images_CVPR_2025_paper.pdf)  
-- [OmniSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_OmniSplat_Taming_Feed-Forward_3D_Gaussian_Splatting_for_Omnidirectional_Images_with_CVPR_2025_paper.pdf)  
-- [TPGS (arXiv 2025)](https://arxiv.org/pdf/2504.09062)
-- [ErpGS (arXiv 2025)](https://arxiv.org/pdf/2505.19883) 
-- [OB3D (arXiv 2025)](https://arxiv.org/pdf/2505.20126)
-- [PanoSplatt3R (ICCV 2025)](https://arxiv.org/pdf/2507.21960)
-- [Seam360GS (arXiv 2025)](https://arxiv.org/pdf/2508.20080)
-  
- 
-
-### Lightweight:
-
-- [OmniSyn (VRW 2022)](https://arxiv.org/pdf/2202.08752)  
-- [SOMSI (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)  
-- [Casual 6-DoF (TVCG 2022)](https://arxiv.org/pdf/2203.16756)  
-
-
-### AIGC:
-
-- [DreamScene360 (ECCV 2024)](https://arxiv.org/pdf/2404.06903)
-- [SceneDreamer360 (arXiv 2024)](https://arxiv.org/pdf/2408.13711)
-- [4K4DGen (ICLR 2025)](https://arxiv.org/pdf/2406.13527)
-- [HoloTime (ACMMM 2025)](https://arxiv.org/pdf/2504.21650)
-- [Scene4U (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Scene4U_Hierarchical_Layered_3D_Scene_Reconstruction_from_Single_Panoramic_Image_CVPR_2025_paper.pdf)
-
-
-
-
-###  Text-guided Generation
-
-### T2I:
-
-- [Text2Light (TOG 2022)](https://dl.acm.org/doi/abs/10.1145/3550454.3555447)
-- [PanFusion (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Taming_Stable_Diffusion_for_Text_to_360_Panorama_Image_Generation_CVPR_2024_paper.pdf)
-- [SphereDiffusion (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28429)
-- [SMGD (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Spherical_Manifold_Guided_Diffusion_Model_for_Panoramic_Image_Generation_CVPR_2025_paper.pdf)
-- [SphereDiff (arXiv 2025)](https://arxiv.org/pdf/2504.14396)
-- [TanDiT (arXiv 2025)](https://arxiv.org/pdf/2506.21681)
-- [Diffusion360 (arXiv 2023)](https://arxiv.org/pdf/2311.13141)
-- [StitchDiffusion (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Customizing_360-Degree_Panoramas_Through_Text-to-Image_Diffusion_Models_WACV_2024_paper.pdf)
-- [PAR (arXiv 2025)](https://arxiv.org/pdf/2505.16862)
-- [Panofree (ECCV 2024)](https://link.springer.com/chapter/10.1007/978-3-031-73383-3_9)
-- [DreamCube (ICCV 2025)](https://arxiv.org/pdf/2506.17206)
-
-### T2V:
-
-- [360DVD (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_360DVD_Controllable_Panorama_Video_Generation_with_360-Degree_Video_Diffusion_Model_CVPR_2024_paper.pdf)
-- [PanoWan (arXiv 2025)](https://arxiv.org/pdf/2505.22016)
-- [DynamicScaler (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_DynamicScaler_Seamless_and_Scalable_Video_Generation_for_Panoramic_Scenes_CVPR_2025_paper.pdf)
-- [PanoDiT (AAAI 2025)](https://ojs.aaai.org/index.php/AAAI/article/view/33089)
-- [VidPanos (SIGGRAPH Asia 2024)](https://dl.acm.org/doi/pdf/10.1145/3680528.3687664)
-- [VideoPanda (arXiv 2025)](https://arxiv.org/pdf/2504.11389)
-- [ViewPoint (arXiv 2025)](https://arxiv.org/pdf/2506.23513) 
-- [OmniDrag (arXiv 2024)](https://arxiv.org/pdf/2412.09623)
-- [TiP4GEN (ACMMM 2025)](https://arxiv.org/pdf/2508.12415)
-  
-
-
-### App.:
- 
-- [DreamScene360 (ECCV 2024)](https://arxiv.org/pdf/2404.06903)
-- [SceneDreamer360 (arXiv 2024)](https://arxiv.org/pdf/2408.13711)
-- [LayerPano3D (arXiv 2024)](https://arxiv.org/pdf/2408.13252)
-- [HoloDreamer (arXiv 2024)](https://arxiv.org/pdf/2407.15187)
-- [HoloTime (ACMMM 2025)](https://arxiv.org/pdf/2504.21650)
-- [4K4DGen (ICLR 2025)](https://arxiv.org/pdf/2406.13527)
-- [Matrix-3D (arXiv 2025)](https://arxiv.org/pdf/2508.08086)
-- [HunyuanWorld 1.0 (arXiv 2025)](https://arxiv.org/pdf/2507.21809)
-- [PanoGen (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/4522de4178bddb36b49aa26efad537cf-Paper-Conference.pdf)
-- [PanoGen++ (Neural Networks 2025)](https://arxiv.org/pdf/2503.09938)
-- [VLN-RAM (arXiv 2025)](https://arxiv.org/pdf/2503.18065)
-- [Omni2 (arXiv 2025)](https://arxiv.org/pdf/2504.11379)
-
-
-
-
-### Text to video:
-
-- [VideoPanda](https://arxiv.org/pdf/2504.11389)
-- [HoloTime](https://arxiv.org/pdf/2504.21650)
-- [4K4DGen](https://arxiv.org/pdf/2406.13527)
-- [PVSR-JSCC (IEEE)](https://ieeexplore.ieee.org/abstract/document/10966439/)
-
 
 ## Multimodel
 
@@ -453,6 +333,112 @@
 - [OmniVQA (arXiv 2025)](https://arxiv.org/pdf/2505.14197)
 - [OSR-Bench (arXiv 2025)](https://arxiv.org/pdf/2505.11907)
 - [Dense360 (arXiv 2025)](https://arxiv.org/pdf/2506.14471)
+
+## Visual Generation 
+
+###  Text-guided Generation
+
+### T2I:
+
+- [Text2Light (TOG 2022)](https://dl.acm.org/doi/abs/10.1145/3550454.3555447)
+- [PanFusion (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Taming_Stable_Diffusion_for_Text_to_360_Panorama_Image_Generation_CVPR_2024_paper.pdf)
+- [SphereDiffusion (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28429)
+- [SMGD (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Spherical_Manifold_Guided_Diffusion_Model_for_Panoramic_Image_Generation_CVPR_2025_paper.pdf)
+- [SphereDiff (arXiv 2025)](https://arxiv.org/pdf/2504.14396)
+- [TanDiT (arXiv 2025)](https://arxiv.org/pdf/2506.21681)
+- [Diffusion360 (arXiv 2023)](https://arxiv.org/pdf/2311.13141)
+- [StitchDiffusion (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Customizing_360-Degree_Panoramas_Through_Text-to-Image_Diffusion_Models_WACV_2024_paper.pdf)
+- [PAR (arXiv 2025)](https://arxiv.org/pdf/2505.16862)
+- [Panofree (ECCV 2024)](https://link.springer.com/chapter/10.1007/978-3-031-73383-3_9)
+- [DreamCube (ICCV 2025)](https://arxiv.org/pdf/2506.17206)
+
+### T2V:
+
+- [360DVD (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_360DVD_Controllable_Panorama_Video_Generation_with_360-Degree_Video_Diffusion_Model_CVPR_2024_paper.pdf)
+- [PanoWan (arXiv 2025)](https://arxiv.org/pdf/2505.22016)
+- [DynamicScaler (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_DynamicScaler_Seamless_and_Scalable_Video_Generation_for_Panoramic_Scenes_CVPR_2025_paper.pdf)
+- [PanoDiT (AAAI 2025)](https://ojs.aaai.org/index.php/AAAI/article/view/33089)
+- [VidPanos (SIGGRAPH Asia 2024)](https://dl.acm.org/doi/pdf/10.1145/3680528.3687664)
+- [VideoPanda (arXiv 2025)](https://arxiv.org/pdf/2504.11389)
+- [ViewPoint (arXiv 2025)](https://arxiv.org/pdf/2506.23513) 
+- [OmniDrag (arXiv 2024)](https://arxiv.org/pdf/2412.09623)
+- [TiP4GEN (ACMMM 2025)](https://arxiv.org/pdf/2508.12415)
+
+  
+### Text to video:
+
+- [VideoPanda](https://arxiv.org/pdf/2504.11389)
+- [HoloTime](https://arxiv.org/pdf/2504.21650)
+- [4K4DGen](https://arxiv.org/pdf/2406.13527)
+- [PVSR-JSCC (IEEE)](https://ieeexplore.ieee.org/abstract/document/10966439/)
+
+### App.:
+ 
+- [DreamScene360 (ECCV 2024)](https://arxiv.org/pdf/2404.06903)
+- [SceneDreamer360 (arXiv 2024)](https://arxiv.org/pdf/2408.13711)
+- [LayerPano3D (arXiv 2024)](https://arxiv.org/pdf/2408.13252)
+- [HoloDreamer (arXiv 2024)](https://arxiv.org/pdf/2407.15187)
+- [HoloTime (ACMMM 2025)](https://arxiv.org/pdf/2504.21650)
+- [4K4DGen (ICLR 2025)](https://arxiv.org/pdf/2406.13527)
+- [Matrix-3D (arXiv 2025)](https://arxiv.org/pdf/2508.08086)
+- [HunyuanWorld 1.0 (arXiv 2025)](https://arxiv.org/pdf/2507.21809)
+- [PanoGen (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/4522de4178bddb36b49aa26efad537cf-Paper-Conference.pdf)
+- [PanoGen++ (Neural Networks 2025)](https://arxiv.org/pdf/2503.09938)
+- [VLN-RAM (arXiv 2025)](https://arxiv.org/pdf/2503.18065)
+- [Omni2 (arXiv 2025)](https://arxiv.org/pdf/2504.11379)
+
+### Completion:
+
+- [Cylin-Painting (TIP 2023)](https://ieeexplore.ieee.org/abstract/document/10370742/)
+- [Dream360 (TVCG 2024)](https://arxiv.org/pdf/2401.10564)
+- [PanoDecouple (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Panorama_Generation_From_NFoV_Image_Done_Right_CVPR_2025_paper.pdf)
+- [PanoDiff (arXiv 2023)](https://arxiv.org/pdf/2308.14686)
+- [PanoDiffusion (arXiv 2023)](https://arxiv.org/pdf/2307.03177)
+- [Diverse Plausible 360° Outpainting (Akimoto et al., CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Akimoto_Diverse_Plausible_360-Degree_Image_Outpainting_for_Efficient_3DCG_Background_Creation_CVPR_2022_paper.pdf)
+- [BIPS (ECCV 2022)](https://arxiv.org/pdf/2112.06179)
+- [2S-ODIS (ECCV 2024)](https://arxiv.org/pdf/2409.09969)
+- [ImmerseGAN (3DV 2022)](https://arxiv.org/pdf/2204.07286)
+- [AOG-Net (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/29332)
+
+
+### NVS
+
+### NeRF:
+
+- [EgoNeRF (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Spherical_Grid_for_Egocentric_View_Synthesis_CVPR_2023_paper.pdf)  
+- [PanoGRF (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/16049e0c3f47899091ac46f8b3afb178-Paper-Conference.pdf)  
+- [Omni-NeRF (ICME 2022)](https://inria.hal.science/hal-03646688/document)  
+- [OmniLocalRF (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Choi_OmniLocalRF_Omnidirectional_Local_Radiance_Fields_from_Dynamic_Videos_CVPR_2024_paper.pdf)  
+- [360Roam (arXiv 2022)](https://arxiv.org/pdf/2208.02705)  
+- [360FusionNeRF (IROS 2023)](https://arxiv.org/pdf/2209.14265)  
+- [PERF (TPAMI 2024)](https://arxiv.org/pdf/2310.16831)  
+- [PanoHDR-NeRF (arXiv 2022)](https://arxiv.org/pdf/2208.07903)  
+
+
+### 3DGS:
+
+- [360-GS (arXiv 2024)](https://arxiv.org/pdf/2402.00763)
+- [ODGS (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/6882dbdc34bcd094e6f858c06ce30edb-Paper-Conference.pdf)
+- [PanSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf)  
+- [OmniGS (arXiv 2024)](https://arxiv.org/pdf/2404.03202)   
+- [Splatter-360 (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Splatter-360_Generalizable_360_Gaussian_Splatting_for_Wide-baseline_Panoramic_Images_CVPR_2025_paper.pdf)  
+- [OmniSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_OmniSplat_Taming_Feed-Forward_3D_Gaussian_Splatting_for_Omnidirectional_Images_with_CVPR_2025_paper.pdf)  
+- [TPGS (arXiv 2025)](https://arxiv.org/pdf/2504.09062)
+- [ErpGS (arXiv 2025)](https://arxiv.org/pdf/2505.19883) 
+- [OB3D (arXiv 2025)](https://arxiv.org/pdf/2505.20126)
+- [PanoSplatt3R (ICCV 2025)](https://arxiv.org/pdf/2507.21960)
+- [Seam360GS (arXiv 2025)](https://arxiv.org/pdf/2508.20080)
+  
+ 
+
+### Lightweight:
+
+- [OmniSyn (VRW 2022)](https://arxiv.org/pdf/2202.08752)  
+- [SOMSI (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)  
+- [Casual 6-DoF (TVCG 2022)](https://arxiv.org/pdf/2203.16756)  
+
+
+
 
 
 
