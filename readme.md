@@ -80,6 +80,7 @@
 - [BOIQA (TCSVT 2021)](https://ieeexplore.ieee.org/abstract/document/9614114/)
 - [MFILGN (TCSVT 2024)](https://arxiv.org/pdf/2102.11393)
 - [Yang et al. (arXiv 2025)](https://arxiv.org/pdf/2506.21925)
+- [GAT (arXiv 2025)](https://arxiv.org/pdf/2508.09843?)
 
 ### Video:
 - [OV-PSNR (TMM, 2020)](https://ieeexplore.ieee.org/abstract/document/9296376/)
@@ -109,10 +110,12 @@
 - [DeepPanoContext (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_DeepPanoContext_Panoramic_3D_Scene_Understanding_With_Holistic_Scene_Context_Graph_ICCV_2021_paper.pdf)
 - [HexRUNet (ICCV 2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Orientation-Aware_Semantic_Segmentation_on_Icosahedron_Spheres_ICCV_2019_paper.pdf)
 - [PRF (TITS 2023)](https://arxiv.org/pdf/2206.10711)
+- [SGAT4PASS (IJCAI 2023)](https://arxiv.org/pdf/2306.03403)
 - [PanoVOS (ECCV 2024)](https://arxiv.org/pdf/2309.12303)
 - [Pano-SfMLearner (IEEE SPL 2021)](https://ieeexplore.ieee.org/abstract/document/9406330/)
 - [OASS (ECCV 2024)](https://arxiv.org/pdf/2407.02182)
 - [OOOPS (ECCV 2024)](https://arxiv.org/pdf/2407.02685)
+- [Liu et al. (arXiv 2025)](https://arxiv.org/pdf/2507.09216)
 
 ### Mapping:
 - [360Mapper (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Teng_360BEV_Panoramic_Semantic_Mapping_for_Indoor_Birds-Eye_View_WACV_2024_paper.pdf)  
@@ -147,6 +150,7 @@
 - [CoVisPose (ECCV 2022)](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)  
 - [Graph-CoVis (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf)  
 - [PanoPose (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_PanoPose_Self-supervised_Relative_Pose_Estimation_for_Panoramic_Images_CVPR_2024_paper.pdf)
+- [PriOr-Flow (ICCV 2025)](https://arxiv.org/pdf/2506.23897)
 
 ###  Saliency Prediction
 
@@ -169,6 +173,7 @@
 - [Zhu et al. (Signal Processing: Image Communication, 2018)](https://drive.google.com/file/d/1eEJ3-eLAdLDhJu8VFeYBRlMb9p-J8ny3/view)  
 - [Bur et al. (ICPR, 2006)](https://d1wqtxts1xzle7.cloudfront.net/42320377/2006-ICPR-libre.pdf?1454870019=&response-content-disposition=inline%3B+filename%3DRobot_Navigation_by_Panoramic_Vision_and.pdf&Expires=1754478718&Signature=GH-ABTTkZ~0W6kAIx7llzfvjJuCu7y9hZiDJLpyu9JVbOidKqYb1EApf2bNQDth9YKM4o2DCiYR01JGonkFQzD5KPjG7UaCKeG2stCfNbvyO33-sY30pVQKTqw7c6YuEWRw5Nqm~hYs55Zectq0gJY7tRK1Udvi2VKrDpyTFI6oigw55qv0VgPGPUEH~ZwZueU8MFXvRucGlwwOvbtjpfzKe1Y0AaDp5uHnxTRKUM3PUEi2ep0CVwlfVjKNwitE6AHwyUNumRdckW0zpDN6NzQOCHPLAIVb55JkczeHAsUhk1kDFpfBais0JM8Y70xLUYPP4Hi6oR9LpM9lXUP64Iw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  
 - [Bogdanova et al. (TIP, 2008)](http://wwwa.unine.ch/parlab/pub/pdf/2008-TIP.pdf)
+  
 
 
 ### Video:
@@ -181,6 +186,7 @@
 - [Guo et al. (ACMMM, 2024)](https://openreview.net/pdf?id=0Q9zTGHOda)  
 - [SphericalU-Net (ECCV, 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf)  
 - [360Spred (TCSVT, 2024)](https://ieeexplore.ieee.org/abstract/document/10542218)
+- [Cokelek et al. (TPAMI 2025)](https://ieeexplore.ieee.org/abstract/document/11144923)
   
 
 ### Layout Estimation:
@@ -247,6 +253,7 @@
 - [SOLID-Net (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Spatially-Varying_Outdoor_Lighting_Estimation_From_Intrinsics_CVPR_2021_paper.pdf)
 - [SALENet (TIP 2024)](https://ieeexplore.ieee.org/abstract/document/10794602/)
 - [CleAR (arXiv 2024)](https://arxiv.org/pdf/2411.02179)
+- [Hilliard et al. (arXiv 2025)](https://arxiv.org/pdf/2507.21261)
 
   
 ### Depth Estimation:
@@ -328,7 +335,10 @@
 - [OmniSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_OmniSplat_Taming_Feed-Forward_3D_Gaussian_Splatting_for_Omnidirectional_Images_with_CVPR_2025_paper.pdf)  
 - [TPGS (arXiv 2025)](https://arxiv.org/pdf/2504.09062)
 - [ErpGS (arXiv 2025)](https://arxiv.org/pdf/2505.19883) 
-- [OB3D (arXiv 2025)](https://arxiv.org/pdf/2505.20126)  
+- [OB3D (arXiv 2025)](https://arxiv.org/pdf/2505.20126)
+- [PanoSplatt3R (ICCV 2025)](https://arxiv.org/pdf/2507.21960)
+- [Seam360GS (arXiv 2025)](https://arxiv.org/pdf/2508.20080)
+  
  
 
 ### Lightweight:
@@ -363,6 +373,7 @@
 - [StitchDiffusion (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Customizing_360-Degree_Panoramas_Through_Text-to-Image_Diffusion_Models_WACV_2024_paper.pdf)
 - [PAR (arXiv 2025)](https://arxiv.org/pdf/2505.16862)
 - [Panofree (ECCV 2024)](https://link.springer.com/chapter/10.1007/978-3-031-73383-3_9)
+- [DreamCube (ICCV 2025)](https://arxiv.org/pdf/2506.17206)
 
 ### T2V:
 
@@ -374,6 +385,8 @@
 - [VideoPanda (arXiv 2025)](https://arxiv.org/pdf/2504.11389)
 - [ViewPoint (arXiv 2025)](https://arxiv.org/pdf/2506.23513) 
 - [OmniDrag (arXiv 2024)](https://arxiv.org/pdf/2412.09623)
+- [TiP4GEN (ACMMM 2025)](https://arxiv.org/pdf/2508.12415)
+  
 
 
 ### App.:
