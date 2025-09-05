@@ -2,7 +2,7 @@
 
 ### Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie Jiang, Bo Du, Dacheng Tao, Ming-Hsuan Yang, Lu Qi
 
-[Project page](https://insta360-research-team.github.io/Survey-of-Panorama)
+[Project page](https://insta360-research-team.github.io/Survey-of-Panorama), 
 [arXiv](https://arxiv.org/abs/2509.04444)
 
 
