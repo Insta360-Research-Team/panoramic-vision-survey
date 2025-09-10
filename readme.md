@@ -16,7 +16,7 @@ For more detailed information, please refer to our survey paper: *One Flight Ove
 
 
 
-![main_fig](./teaser.png)
+![main_fig](./github.png)
 
 ## 💖 Citation
 **If you find value in our survey paper or curated collection, please consider citing our work and starring our repo to support us.**
