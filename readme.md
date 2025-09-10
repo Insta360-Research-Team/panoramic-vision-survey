@@ -7,7 +7,18 @@
 </p>
 <br />
 
-Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie Jiang, Bo Du, Dacheng Tao, Ming-Hsuan Yang, Lu Qi
+[*Xin Lin*](https://linxin0.github.io/),
+[*Xian Ge*](),
+[*Dizhe Zhang*](),
+[*Zhaoliang Wan*](https://wan-zhaoliang.vercel.app/),
+[*Xianshun Wang*](),
+[*Xiangtai Li*](https://lxtgh.github.io/),
+[*Wenjie Jiang*](),
+[*Bo Du*]()
+[*Dacheng Tao*]()
+[*Ming-Hsuan Yang*](https://faculty.ucmerced.edu/mhyang/)
+[*Lu Qi*](http://luqi.info/)
+
 
 ## 💖 Citation
 **If you find value in our survey paper or curated collection, please consider citing our work and starring our repo to support us.**
