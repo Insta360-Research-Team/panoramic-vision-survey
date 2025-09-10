@@ -9,6 +9,9 @@
 </p>
 <br />
 
+We are focusing on the development of panoramic vision. 
+
+For more detailed information, please refer to our survey paper: [One Flight Over the Gap: A Survey from Perspective to Panoramic Vision](https://arxiv.org/pdf/2509.04444)
 
 
 ![main_fig](./teaser.png)
