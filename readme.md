@@ -7,19 +7,20 @@
 </p>
 <br />
 
-[*Xin Lin*](https://linxin0.github.io/),
-[*Xian Ge*](),
-[*Dizhe Zhang*](),
-[*Zhaoliang Wan*](https://wan-zhaoliang.vercel.app/),
-[*Xianshun Wang*](),
-[*Xiangtai Li*](https://lxtgh.github.io/),
-[*Wenjie Jiang*](), 
+<p align="center">
+  <a href="https://linxin0.github.io/"><em>Xin Lin</em></a>, 
+  <a href=""><em>Xian Ge</em></a>, 
+  <a href=""><em>Dizhe Zhang</em></a>, 
+  <a href="https://wan-zhaoliang.vercel.app/"><em>Zhaoliang Wan</em></a>, 
+  <a href=""><em>Xianshun Wang</em></a>, 
+  <a href="https://lxtgh.github.io/"><em>Xiangtai Li</em></a>, 
+  <a href=""><em>Wenjie Jiang</em></a>, 
+  <a href=""><em>Bo Du</em></a>, 
+  <a href=""><em>Dacheng Tao</em></a>, 
+  <a href="https://faculty.ucmerced.edu/mhyang/"><em>Ming-Hsuan Yang</em></a>, 
+  <a href="http://luqi.info/"><em>Lu Qi</em></a>
+</p>
 
-
-[*Bo Du*]()
-[*Dacheng Tao*]()
-[*Ming-Hsuan Yang*](https://faculty.ucmerced.edu/mhyang/)
-[*Lu Qi*](http://luqi.info/)
 
 ![main_fig](./teaser.png)
 
