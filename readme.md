@@ -55,9 +55,9 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 <!-- start -->
 ## 🚀 Visual Quality Enhancement
 
-### 🚀 Super Resolution
+### 🍇 Super Resolution
 
-### Image:
+### 🍉 Image:
 
 - [LAUNet (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [360-SISR (ICIP 2021)](https://ieeexplore.ieee.org/abstract/document/9506233/)
@@ -81,14 +81,14 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [RealOSR (arXiv 2024)](https://arxiv.org/pdf/2412.09646)
 
 
-### Video:
+### 🍉 Video:
 - [SMFN (EAAI 2024)](https://arxiv.org/pdf/2008.10320)
 - [S3PO (TMM 2023)](https://arxiv.org/pdf/2506.14803)
 - [STDAN (arXiv 2024)](https://arxiv.org/pdf/2410.11506?)
 - [Wang et al. (BDIOT 2023)](https://dl.acm.org/doi/abs/10.1145/3617695.3617721)
 
 
-### 🚀 Reflection Removal:
+### 🍇 Reflection Removal:
 
 
 - [Hong et al. (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Panoramic_Image_Reflection_Removal_CVPR_2021_paper.pdf)
@@ -96,27 +96,27 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [ZS360 (ECCV 2022)](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_31)
 - [Park et al. (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Fully-Automatic_Reflection_Removal_for_360-Degree_Images_WACV_2024_paper.pdf)
 
-### 🚀 Restoration
+### 🍇 Restoration
 
-### Denoising:
+### 🍉 Denoising:
 
 - [Bigot et al. (VISAPP 2007)](https://www.scitepress.org/Papers/2007/20523/20523.pdf)
 - [Iazzi et al. (Research Journal of Applied Sciences, Engineering and Technology 2014)](https://www.airitilibrary.com/Article/Detail/20407467-201411-201503110021-201503110021-1966-1972)
 - [Phan et al. (Signal Processing Letters 2020)](https://www.researchgate.net/profile/Khoa-Phan/publication/339895846_A_Space-Variant_Nonlinear_Algorithm_for_Denoising_Omnidirectional_Images_Corrupted_by_Poisson_Noise/links/5ff5bf1592851c13fef06681/A-Space-Variant-Nonlinear-Algorithm-for-Denoising-Omnidirectional-Images-Corrupted-by-Poisson-Noise.pdf)
 - [Spheredrunet (ISMAR-Adjunct 2023)](https://hal.science/hal-04197479/document)
 
-### Deblurring:
+### 🍉 Deblurring:
 - [Li et al. (International Journal of Optics 2014)](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2014/732937)
 - [Peng et al. (SMC 2012)](https://ieeexplore.ieee.org/abstract/document/6378313/)
 - [Liu et al. (Optik, 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0030402613008231)
 - [Alibouch et al. (International Symposium on Ubiquitous Networking 2021)](https://link.springer.com/chapter/10.1007/978-3-030-86356-2_25)
 
-### Dehazing:
+### 🍉 Dehazing:
 - [Zhao et al. (TVCG 2023)](https://ieeexplore.ieee.org/abstract/document/10005621/)
 
-### Quality Assessment
+### 🍇 Quality Assessment
 
-### Image:
+### 🍉 Image:
 - [MC360IQA (IEEE Journal of Selected Topics in Signal Processing 2019)](https://drive.google.com/file/d/1EeJ8lzKMrFb5OKRa2xAh99NFNYzieoOn/view)
 - [VGCN (TCSVT 2020)](https://arxiv.org/pdf/2002.09140)
 - [TVFormer (ACMMM 2022)](https://dl.acm.org/doi/abs/10.1145/3503161.3547748)
@@ -135,16 +135,16 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Yang et al. (arXiv 2025)](https://arxiv.org/pdf/2506.21925)
 - [GAT (arXiv 2025)](https://arxiv.org/pdf/2508.09843?)
 
-### Video:
+### 🍉 Video:
 - [OV-PSNR (TMM, 2020)](https://ieeexplore.ieee.org/abstract/document/9296376/)
 - [V-CNN (CVPR, 2019)](https://ieeexplore.ieee.org/abstract/document/8953510/)
 - [360-VQA (ICME, 2020)](https://infoscience.epfl.ch/server/api/core/bitstreams/5f92fd75-54b3-4d3d-b9ce-fb8ffabc2b0e/content)
 - [CIQNet (IEEE Transactions on Broadcasting, 2024)](https://ieeexplore.ieee.org/abstract/document/10380455/)
 - [NR-OVQA (Optik, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0030402620317046)
 
-## Visual Understanding
+## 🚀 Visual Understanding
 
-### Segmentation:
+### 🍇 Segmentation:
 
 - [DensePASS (ITSC 2021)](https://arxiv.org/pdf/2108.06383)
 - [DPPASS (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf)
@@ -170,12 +170,12 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [OOOPS (ECCV 2024)](https://arxiv.org/pdf/2407.02685)
 - [Liu et al. (arXiv 2025)](https://arxiv.org/pdf/2507.09216)
 
-### Mapping:
+### 🍇 Mapping:
 - [360Mapper (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Teng_360BEV_Panoramic_Semantic_Mapping_for_Indoor_Birds-Eye_View_WACV_2024_paper.pdf)  
 - [OneBEV (ACCV 2024)](https://openaccess.thecvf.com/content/ACCV2024/papers/Wei_OneBEV_Using_One_Panoramic_Image_for_BirdAos-Eye-View_Semantic_Mapping_ACCV_2024_paper.pdf)  
 - [HumanoidPano (arXiv 2025)](https://arxiv.org/pdf/2503.09010)  
 
-### Detection:
+### 🍇 Detection:
 - [Multi-Projection YOLO (ICPR 2018)](https://arxiv.org/pdf/1805.08009)  
 - [RepR-CNN (AAAI 2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6995)  
 - [SphereNet (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
@@ -188,7 +188,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [FoV-IoU (TIP 2023)](https://www.academia.edu/download/85054461/2202.03176v1.pdf)  
 - [Sph2Pob (IJCAI 2023)](https://www.ijcai.org/proceedings/2023/0137.pdf)  
 
-### Tracking:
+### 🍇 Tracking:
 
 - [Jiang et al. (TIM 2021)](https://ieeexplore.ieee.org/abstract/document/9335293/)  
 - [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)  
@@ -198,16 +198,16 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Luo et al. (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Omnidirectional_Multi-Object_Tracking_CVPR_2025_paper.pdf)
 
 
-### Pose Estimation:
+### 🍇 Pose Estimation:
 
 - [CoVisPose (ECCV 2022)](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)  
 - [Graph-CoVis (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf)  
 - [PanoPose (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_PanoPose_Self-supervised_Relative_Pose_Estimation_for_Panoramic_Images_CVPR_2024_paper.pdf)
 - [PriOr-Flow (ICCV 2025)](https://arxiv.org/pdf/2506.23897)
 
-###  Saliency Prediction:
+### 🍇 Saliency Prediction:
 
-### Image:
+### 🍉 Image:
 - [SalNet (Signal Processing: Image Communication, 2018)](https://arxiv.org/pdf/1709.06505)  
 - [Suzuki et al. (SMC, 2018)](https://arxiv.org/pdf/1807.06329)  
 - [Dai et al. (ICASSP, 2020)](https://ieeexplore.ieee.org/abstract/document/9053888/)  
@@ -229,7 +229,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
   
 
 
-### Video:
+### 🍉 Video:
 
 - [PanoSalNet (ACMMM, 2018)](https://mason.gmu.edu/~zyan4/papers/panosalnet_mm18.pdf)  
 - [Cheng et al. (CVPR, 2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Cube_Padding_for_CVPR_2018_paper.pdf)  
@@ -242,7 +242,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Cokelek et al. (TPAMI 2025)](https://ieeexplore.ieee.org/abstract/document/11144923)
   
 
-### Layout Estimation:
+### 🍇 Layout Estimation:
 - [DuLa-Net (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_DuLa-Net_A_Dual-Projection_Network_for_Estimating_Room_Layouts_From_a_CVPR_2019_paper.pdf)
 - [PSMNet (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_PSMNet_Position-Aware_Stereo_Merging_Network_for_Room_Layout_Estimation_CVPR_2022_paper.pdf)
 - [uLayout (WACV 2025)](https://arxiv.org/pdf/2503.21562)
@@ -262,7 +262,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [SSLayout360 (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf)
 - [SemiLayout360 (arXiv 2024)](https://arxiv.org/pdf/2503.01114)
 
-### Optical Flow Estimation:
+### 🍇 Optical Flow Estimation:
 
 - [Cubes3D (arXiv 2018)](https://arxiv.org/pdf/1804.09004)
 - [SimpleNet (3DC 2019)](https://ieeexplore.ieee.org/abstract/document/8885962)
@@ -272,7 +272,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Yuan et al. (BMVC 2021)](https://researchportal.bath.ac.uk/files/228201204/360Flow_YuanRichardt_BMVC2021.pdf)
 - [Li et al. (ECCV 2022)](https://arxiv.org/pdf/2208.00776)
 
-### Keypoint Matching:
+### 🍇 Keypoint Matching:
 
 - [SPHORB (IJCV 2015)](https://cic.tju.edu.cn/faculty/lwan/paper/SPHORB/pdf/SPHORB-final-small.pdf)
 - [Chuang et al. (PE&RS 2018)](https://www.ingentaconnect.com/contentone/asprs/pers/2018/00000084/00000001/art00012?crawler=true&mimetype=application/pdf)
@@ -280,14 +280,14 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [SphereGlue (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)
 - [EDM (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_EDM_Equirectangular_Projection-Oriented_Dense_Kernelized_Feature_Matching_CVPR_2025_paper.pdf)
 
-### Decomposition:
+### 🍇 Decomposition:
 
 - [Li et al. (CVPR 2021)](https://arxiv.org/pdf/2104.09886)
 - [PhyIR (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
 - [Xu et al. (TVCG 2024)](https://d197for5662m48.cloudfront.net/documents/publicationstatus/170307/preprint_pdf/a3fb7c56754575bae23aeb6c7b28cd44.pdf)
   
 
-### Lighting Estimation:
+### 🍇 Lighting Estimation:
 
 - [Weber et al. (3DV 2018)](https://arxiv.org/pdf/1806.03994)
 - [Gkitsas et al. (CVPRW 2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w38/Gkitsas_Deep_Lighting_Environment_Map_Estimation_From_Spherical_Panoramas_CVPRW_2020_paper.pdf)
@@ -309,7 +309,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Hilliard et al. (arXiv 2025)](https://arxiv.org/pdf/2507.21261)
 
   
-### Depth Estimation:
+### 🍇 Depth Estimation:
 
 - [OmniDepth (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/NIKOLAOS_ZIOULIS_OmniDepth_Dense_Depth_ECCV_2018_paper.pdf)
 - [Tateno et al. (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Keisuke_Tateno_Distortion-Aware_Convolutional_Filters_ECCV_2018_paper.pdf)
@@ -348,9 +348,9 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [PanDA (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf)
 
 
-## Multimodel
+## 🚀 Multimodel
 
-### Audio:
+### 🍇 Audio:
 
 - [Audible Panorama (CHI 2019)](https://dl.acm.org/doi/abs/10.1145/3290605.3300851)  
 - [Li et al. (TOG 2018)](https://arxiv.org/pdf/1805.04792)  
@@ -367,7 +367,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 
 
 
-### Ladar:
+### 🍇 Ladar:
 
 - [SPOMP (TFR 2024)](https://arxiv.org/pdf/2407.09902)
 - [HumanoidPano (arXiv 2025)](https://arxiv.org/pdf/2503.09010)
@@ -379,7 +379,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)
 
 
-### Text:
+### 🍇 Text:
 
 - [VQA 360 (WACV 2020)](https://openaccess.thecvf.com/content_WACV_2020/papers/Chou_Visual_Question_Answering_on_360deg_Images_WACV_2020_paper.pdf)
 - [VIEW-QA (arXiv 2024)](https://arxiv.org/pdf/2405.19794)
@@ -387,11 +387,11 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [OSR-Bench (arXiv 2025)](https://arxiv.org/pdf/2505.11907)
 - [Dense360 (arXiv 2025)](https://arxiv.org/pdf/2506.14471)
 
-## Visual Generation 
+## 🚀 Visual Generation 
 
-###  Text-guided Generation:
+### 🍇 Text-guided Generation:
 
-### T2I:
+### 🍉 T2I:
 
 - [Text2Light (TOG 2022)](https://dl.acm.org/doi/abs/10.1145/3550454.3555447)
 - [PanFusion (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Taming_Stable_Diffusion_for_Text_to_360_Panorama_Image_Generation_CVPR_2024_paper.pdf)
@@ -405,7 +405,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Panofree (ECCV 2024)](https://link.springer.com/chapter/10.1007/978-3-031-73383-3_9)
 - [DreamCube (ICCV 2025)](https://arxiv.org/pdf/2506.17206)
 
-### T2V:
+### 🍉 T2V:
 
 - [360DVD (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_360DVD_Controllable_Panorama_Video_Generation_with_360-Degree_Video_Diffusion_Model_CVPR_2024_paper.pdf)
 - [PanoWan (arXiv 2025)](https://arxiv.org/pdf/2505.22016)
@@ -418,14 +418,14 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [TiP4GEN (ACMMM 2025)](https://arxiv.org/pdf/2508.12415)
 
   
-### Text to video:
+### 🍉 Text to video:
 
 - [VideoPanda](https://arxiv.org/pdf/2504.11389)
 - [HoloTime](https://arxiv.org/pdf/2504.21650)
 - [4K4DGen](https://arxiv.org/pdf/2406.13527)
 - [PVSR-JSCC (IEEE)](https://ieeexplore.ieee.org/abstract/document/10966439/)
 
-### App.:
+### 🍉 App.:
  
 - [DreamScene360 (ECCV 2024)](https://arxiv.org/pdf/2404.06903)
 - [SceneDreamer360 (arXiv 2024)](https://arxiv.org/pdf/2408.13711)
@@ -440,7 +440,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [VLN-RAM (arXiv 2025)](https://arxiv.org/pdf/2503.18065)
 - [Omni2 (arXiv 2025)](https://arxiv.org/pdf/2504.11379)
 
-### Completion:
+### 🍇 Completion:
 
 - [Cylin-Painting (TIP 2023)](https://ieeexplore.ieee.org/abstract/document/10370742/)
 - [Dream360 (TVCG 2024)](https://arxiv.org/pdf/2401.10564)
@@ -454,9 +454,9 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [AOG-Net (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/29332)
 
 
-### Novel View Synthesis:
+### 🍇 Novel View Synthesis:
 
-### NeRF:
+### 🍉 NeRF:
 
 - [EgoNeRF (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Spherical_Grid_for_Egocentric_View_Synthesis_CVPR_2023_paper.pdf)  
 - [PanoGRF (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/16049e0c3f47899091ac46f8b3afb178-Paper-Conference.pdf)  
@@ -468,7 +468,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [PanoHDR-NeRF (arXiv 2022)](https://arxiv.org/pdf/2208.07903)  
 
 
-### 3DGS:
+### 🍉 3DGS:
 
 - [360-GS (arXiv 2024)](https://arxiv.org/pdf/2402.00763)
 - [ODGS (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/6882dbdc34bcd094e6f858c06ce30edb-Paper-Conference.pdf)
@@ -484,7 +484,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
   
  
 
-### Lightweight:
+### 🍉 Lightweight:
 
 - [OmniSyn (VRW 2022)](https://arxiv.org/pdf/2202.08752)  
 - [SOMSI (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)  
