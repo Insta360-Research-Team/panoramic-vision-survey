@@ -26,11 +26,34 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Visual Quality Enhancement](#Visual-Quality-Enhancement)
   - [Super Resolution](#Super-Resolution)
   - [Reflection Removal](#Reflection-Removal)
-    
+  - [Restoration](#Restoration)
+  - [Quality Assessment](#Quality-Assessment)
+- [Visual Understanding](#Visual-Understanding)
+  - [Segmentation](#Segmentation)
+  - [Mapping](#Mapping)
+  - [Detection](#Detection)
+  - [Tracking](#Tracking)
+  - [Pose Estimation](#Pose-Estimation)
+  - [Saliency Prediction](#Saliency-Prediction)
+  - [Layout Estimation](#Layout-Estimation)
+  - [Optical Flow Estimation](#Optical-Flow-Estimation)
+  - [Keypoint Matching](#Keypoint-Matching)
+  - [Decomposition](#Decomposition)
+  - [Lighting Estimation](#Lighting-Estimation)
+  - [Depth Estimation](#Depth-Estimation)
+- [Multimodel](#Multimodel)
+  -[Audio](#Audio)
+  -[Ladar](#Ladar)
+  -[Text](#Text)
+- [Visual Generation](#Visual-Generation)
+  -[Text-guided Generation](#Text-guided-Generation)
+  -[Completion](#Completion)
+  -[Novel View Synthesis](#Novel-View-Synthesis)
+  
 <!-- start -->
-### 🚀 Visual Quality Enhancement
+## 🚀 Visual Quality Enhancement
 
-#### 🚀 Super Resolution
+### 🚀 Super Resolution
 
 ### Image:
 
@@ -63,7 +86,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [Wang et al. (BDIOT 2023)](https://dl.acm.org/doi/abs/10.1145/3617695.3617721)
 
 
-### Reflection Removal:
+### 🚀 Reflection Removal:
 
 
 - [Hong et al. (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Panoramic_Image_Reflection_Removal_CVPR_2021_paper.pdf)
@@ -71,7 +94,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [ZS360 (ECCV 2022)](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_31)
 - [Park et al. (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Fully-Automatic_Reflection_Removal_for_360-Degree_Images_WACV_2024_paper.pdf)
 
-### Restoration
+### 🚀 Restoration
 
 ### Denoising:
 
@@ -180,7 +203,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [PanoPose (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_PanoPose_Self-supervised_Relative_Pose_Estimation_for_Panoramic_Images_CVPR_2024_paper.pdf)
 - [PriOr-Flow (ICCV 2025)](https://arxiv.org/pdf/2506.23897)
 
-###  Saliency Prediction
+###  Saliency Prediction:
 
 ### Image:
 - [SalNet (Signal Processing: Image Communication, 2018)](https://arxiv.org/pdf/1709.06505)  
@@ -255,7 +278,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [SphereGlue (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)
 - [EDM (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_EDM_Equirectangular_Projection-Oriented_Dense_Kernelized_Feature_Matching_CVPR_2025_paper.pdf)
 
-### Decomposition :
+### Decomposition:
 
 - [Li et al. (CVPR 2021)](https://arxiv.org/pdf/2104.09886)
 - [PhyIR (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
@@ -364,7 +387,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 
 ## Visual Generation 
 
-###  Text-guided Generation
+###  Text-guided Generation:
 
 ### T2I:
 
@@ -429,7 +452,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [AOG-Net (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/29332)
 
 
-### NVS
+### Novel View Synthesis:
 
 ### NeRF:
 
