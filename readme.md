@@ -465,6 +465,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
 - [SOMSI (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)  
 - [Casual 6-DoF (TVCG 2022)](https://arxiv.org/pdf/2203.16756)  
 
+<!-- end -->
 
 
 
