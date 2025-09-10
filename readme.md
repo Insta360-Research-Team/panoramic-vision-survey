@@ -39,8 +39,8 @@
 
 ## 🌈 Contents
 
-- [Visual Quality Enhancement](#visual-quality-enhancement)
-  - [Super Resolution](#super-resolution)
+- [Visual Quality Enhancement](#Visual-Quality-Enhancement)
+  - [Super Resolution](#Super-Resolution)
   - [Reflection Removal](#Reflection-Removal)
   - [Restoration](#Restoration)
   - [Quality Assessment](#Quality-Assessment)
@@ -69,9 +69,9 @@
 
   
 <!-- start -->
-## 🚀 Visual Quality Enhancement
+## 🚀Visual Quality Enhancement
 
-### 🍇 Super Resolution
+### 🍇Super Resolution
 
 ### 🍉 Image:
 
