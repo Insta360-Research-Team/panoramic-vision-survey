@@ -1,11 +1,24 @@
-# One Flight Over the Gap: A Survey from Perspective to Panoramic Vision.
+[![Project page](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://insta360-research-team.github.io/Survey-of-Panorama)
+[![arXiv](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=flat)](https://arxiv.org/abs/2509.04444) 
+
+<br />
+<p align="center">
+  <h1 align="center">One Flight Over the Gap: A Survey from Perspective to Panoramic Vision</h1>
+</p>
+<br />
 
 Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie Jiang, Bo Du, Dacheng Tao, Ming-Hsuan Yang, Lu Qi
 
-[Project page](https://insta360-research-team.github.io/Survey-of-Panorama), 
-[arXiv](https://arxiv.org/abs/2509.04444)
+## 💖 Citation
+**If you find value in our survey paper or curated collection, please consider citing our work and starring our repo to support us.**
 
-
+```text
+@article{lin2025panorama,
+  title={One Flight Over the Gap: A Survey from Perspective to Panoramic Vision},
+  author={Lin, Xin and Ge, Xian and Zhang, Dizhe and Wan, Zhaoliang and Wang, Xianshun and Li, Xiangtai and Jiang, Wenjie and Du, Bo and Tao, Dacheng and Yang, Ming-Hsuan and Qi, Lu},
+  journal={arXiv},
+  year={2025}
+}
 
 ## Visual Quality Enhancement
 
