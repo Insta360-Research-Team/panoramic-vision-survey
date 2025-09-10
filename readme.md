@@ -14,6 +14,7 @@
   <a href="https://wan-zhaoliang.vercel.app/"><em>Zhaoliang Wan</em></a>, 
   <a href=""><em>Xianshun Wang</em></a>, 
   <a href="https://lxtgh.github.io/"><em>Xiangtai Li</em></a>, 
+  <br>
   <a href=""><em>Wenjie Jiang</em></a>, 
   <a href=""><em>Bo Du</em></a>, 
   <a href=""><em>Dacheng Tao</em></a>, 
