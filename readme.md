@@ -11,7 +11,7 @@
 
 We are focusing on the development of panoramic vision. 
 
-For more detailed information, please refer to our survey paper: 
+For more detailed information, please refer to our survey paper: *One Flight Over the Gap: A Survey from Perspective to Panoramic Vision*
 
 [Project Page](https://insta360-research-team.github.io/Survey-of-Panorama/) 
 
