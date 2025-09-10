@@ -13,7 +13,9 @@
 [*Zhaoliang Wan*](https://wan-zhaoliang.vercel.app/),
 [*Xianshun Wang*](),
 [*Xiangtai Li*](https://lxtgh.github.io/),
-[*Wenjie Jiang*](), \\
+[*Wenjie Jiang*](), 
+
+
 [*Bo Du*]()
 [*Dacheng Tao*]()
 [*Ming-Hsuan Yang*](https://faculty.ucmerced.edu/mhyang/)
