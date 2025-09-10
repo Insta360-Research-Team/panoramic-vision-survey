@@ -42,12 +42,19 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
   - [Lighting Estimation](#Lighting-Estimation)
   - [Depth Estimation](#Depth-Estimation)
 - [Multimodel](#Multimodel)
+
   -[Audio](#Audio)
+  
   -[Ladar](#Ladar)
+  
   -[Text](#Text)
+  
 - [Visual Generation](#Visual-Generation)
+
   -[Text-guided Generation](#Text-guided-Generation)
+  
   -[Completion](#Completion)
+  
   -[Novel View Synthesis](#Novel-View-Synthesis)
   
 <!-- start -->
