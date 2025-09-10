@@ -19,6 +19,7 @@ Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie
   journal={arXiv},
   year={2025}
 }
+```
 
 ## Visual Quality Enhancement
 
