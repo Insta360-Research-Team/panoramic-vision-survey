@@ -501,5 +501,5 @@ For more detailed information, please refer to our survey paper: [One Flight Ove
 
 
 
-
+Acknowledgements: We borrow this template from [Awesome Controllable T2I Diffusion Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)
 
