@@ -19,6 +19,7 @@
 [*Ming-Hsuan Yang*](https://faculty.ucmerced.edu/mhyang/)
 [*Lu Qi*](http://luqi.info/)
 
+![main_fig](./teaser.png)
 
 ## 💖 Citation
 **If you find value in our survey paper or curated collection, please consider citing our work and starring our repo to support us.**
