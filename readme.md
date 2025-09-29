@@ -451,6 +451,8 @@ For more detailed information, please refer to our survey paper: *One Flight Ove
 
 ### 🍇Completion:
 
+### 🍉Image:
+
 - [Cylin-Painting (TIP 2023)](https://ieeexplore.ieee.org/abstract/document/10370742/)
 - [Dream360 (TVCG 2024)](https://arxiv.org/pdf/2401.10564)
 - [PanoDecouple (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Panorama_Generation_From_NFoV_Image_Done_Right_CVPR_2025_paper.pdf)
@@ -462,6 +464,10 @@ For more detailed information, please refer to our survey paper: *One Flight Ove
 - [ImmerseGAN (3DV 2022)](https://arxiv.org/pdf/2204.07286)
 - [AOG-Net (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/29332)
 
+### 🍉Video:
+
+- [Argus (ICCV 2025)](https://arxiv.org/pdf/2504.07940)
+- [Imagine360 (NeurIPS 2025)](https://arxiv.org/pdf/2412.03552)
 
 ### 🍇Novel View Synthesis:
 
