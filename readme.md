@@ -359,6 +359,10 @@ For more detailed information, please refer to our survey paper: *One Flight Ove
 - [Garg et al. (ECCV 2016)](https://arxiv.org/pdf/1603.04992)
 - [DepthAnywhere (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/e6c2e85db1f1039177c4495ccd399ac4-Paper-Conference.pdf)
 - [PanDA (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf)
+- [Depth Any Camera (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Depth_Any_Camera_Zero-Shot_Metric_Depth_Estimation_from_Any_Camera_CVPR_2025_paper.pdf)
+- [UniK3D (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Piccinelli_UniK3D_Universal_Camera_Monocular_3D_Estimation_CVPR_2025_paper.pdf)
+- [DA2 (arXiv 2025)](https://arxiv.org/pdf/2509.26618?)
+- [Ning et al. (TIP 2025)](https://arxiv.org/pdf/2510.07817)
 
 
 ## 🚀Multimodel
