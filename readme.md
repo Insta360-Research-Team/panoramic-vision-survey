@@ -9,6 +9,10 @@
 </p>
 <br />
 
+📢 If you are aware of new relevant papers, we kindly ask you to submit them via a GitHub Issue.  
+They will be considered for inclusion in the next version of the manuscript. 🙏
+
+
 We are focusing on the development of panoramic vision. 
 
 For more detailed information, please refer to our survey paper: *One Flight Over the Gap: A Survey from Perspective to Panoramic Vision* ([Project Page](https://insta360-research-team.github.io/Survey-of-Panorama/), [arXiv](https://arxiv.org/pdf/2509.04444), [Github](https://github.com/Insta360-Research-Team/panoramic-vision-survey))
